@@ -6,7 +6,7 @@ from zeep import Client
 # from sqlalchemy import create_engine
 # from sqlalchemy.orm import sessionmaker
 
- aa
+
 import sys
 sys.path.append(".")
 
